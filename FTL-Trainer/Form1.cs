@@ -91,17 +91,17 @@ namespace FTL_Trainer
                     int iFuel = mem.ReadInt(iPlayerData + Offsets.iFuel);
                     tB_FuelCurrent.Text = iFuel.ToString();
                     
-                    iMissPointer2 = mem.ReadInt(iPlayerData + 0x48);
-                    int iMissShip1 = mem.ReadInt(iMissPointer2 + 0x1E8);
+                    iMissPointer2 = mem.ReadInt(iPlayerData + Offsets.iMissilePointer);
+                    int iMissShip1 = mem.ReadInt(iMissPointer2 + Offsets.iMissilePointer2);
                     tB_MissCurrent1.Text = iMissShip1.ToString();
                     
                     tB_MissCurrent2.Text = iMissShip1.ToString();
 
-                    int iDroneShip1 = mem.ReadInt(iPlayerData + 0x800);
+                    int iDroneShip1 = mem.ReadInt(iPlayerData + Offsets.iDronePointerShip1);
                     tB_DroneCurrent1.Text = iDroneShip1.ToString();
 
-                    iDronePointer2Ship2 = mem.ReadInt(iPlayerData + 0x4C);
-                    int iDroneShip2 = mem.ReadInt(iDronePointer2Ship2 + 0x1CC);
+                    iDronePointer2Ship2 = mem.ReadInt(iPlayerData + Offsets.iDronePointer1Ship2);
+                    int iDroneShip2 = mem.ReadInt(iDronePointer2Ship2 + Offsets.iDronePointer2Ship2);
                     tB_DroneCurrent2.Text = iDroneShip2.ToString();
 
                     int iHealth = mem.ReadInt(iPlayerData + Offsets.iPlayerHP);

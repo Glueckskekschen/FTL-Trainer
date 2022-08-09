@@ -103,5 +103,8 @@
   <ItemGroup>
     <None Include="Resources\Health.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="FTL-Trainer.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

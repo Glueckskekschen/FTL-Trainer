@@ -92,7 +92,7 @@
             this.bn_ApplyFuel.Location = new System.Drawing.Point(207, 26);
             this.bn_ApplyFuel.Name = "bn_ApplyFuel";
             this.bn_ApplyFuel.Size = new System.Drawing.Size(76, 23);
-            this.bn_ApplyFuel.TabIndex = 1;
+            this.bn_ApplyFuel.TabIndex = 30;
             this.bn_ApplyFuel.Text = "Apply";
             this.bn_ApplyFuel.UseVisualStyleBackColor = true;
             this.bn_ApplyFuel.Click += new System.EventHandler(this.bn_ApplyFuel_Click);
@@ -102,7 +102,7 @@
             this.tB_FuelUser.Location = new System.Drawing.Point(128, 28);
             this.tB_FuelUser.Name = "tB_FuelUser";
             this.tB_FuelUser.Size = new System.Drawing.Size(73, 20);
-            this.tB_FuelUser.TabIndex = 2;
+            this.tB_FuelUser.TabIndex = 20;
             // 
             // label1
             // 
@@ -131,7 +131,7 @@
             this.tB_MissUser1.Location = new System.Drawing.Point(128, 57);
             this.tB_MissUser1.Name = "tB_MissUser1";
             this.tB_MissUser1.Size = new System.Drawing.Size(73, 20);
-            this.tB_MissUser1.TabIndex = 8;
+            this.tB_MissUser1.TabIndex = 21;
             // 
             // bn_ApplyMiss1
             // 
@@ -139,7 +139,7 @@
             this.bn_ApplyMiss1.Location = new System.Drawing.Point(207, 55);
             this.bn_ApplyMiss1.Name = "bn_ApplyMiss1";
             this.bn_ApplyMiss1.Size = new System.Drawing.Size(76, 23);
-            this.bn_ApplyMiss1.TabIndex = 7;
+            this.bn_ApplyMiss1.TabIndex = 31;
             this.bn_ApplyMiss1.Text = "Apply";
             this.bn_ApplyMiss1.UseVisualStyleBackColor = true;
             this.bn_ApplyMiss1.Click += new System.EventHandler(this.bn_ApplyMiss1_Click);
@@ -150,14 +150,14 @@
             this.tB_MissCurrent1.Name = "tB_MissCurrent1";
             this.tB_MissCurrent1.ReadOnly = true;
             this.tB_MissCurrent1.Size = new System.Drawing.Size(73, 20);
-            this.tB_MissCurrent1.TabIndex = 6;
+            this.tB_MissCurrent1.TabIndex = 1;
             // 
             // tB_DroneUser1
             // 
             this.tB_DroneUser1.Location = new System.Drawing.Point(128, 115);
             this.tB_DroneUser1.Name = "tB_DroneUser1";
             this.tB_DroneUser1.Size = new System.Drawing.Size(73, 20);
-            this.tB_DroneUser1.TabIndex = 12;
+            this.tB_DroneUser1.TabIndex = 23;
             // 
             // bn_ApplyDrone1
             // 
@@ -165,7 +165,7 @@
             this.bn_ApplyDrone1.Location = new System.Drawing.Point(207, 113);
             this.bn_ApplyDrone1.Name = "bn_ApplyDrone1";
             this.bn_ApplyDrone1.Size = new System.Drawing.Size(76, 23);
-            this.bn_ApplyDrone1.TabIndex = 11;
+            this.bn_ApplyDrone1.TabIndex = 33;
             this.bn_ApplyDrone1.Text = "Apply";
             this.bn_ApplyDrone1.UseVisualStyleBackColor = true;
             this.bn_ApplyDrone1.Click += new System.EventHandler(this.bn_ApplyDrone1_Click);
@@ -176,14 +176,14 @@
             this.tB_DroneCurrent1.Name = "tB_DroneCurrent1";
             this.tB_DroneCurrent1.ReadOnly = true;
             this.tB_DroneCurrent1.Size = new System.Drawing.Size(73, 20);
-            this.tB_DroneCurrent1.TabIndex = 10;
+            this.tB_DroneCurrent1.TabIndex = 3;
             // 
             // tB_DroneUser2
             // 
             this.tB_DroneUser2.Location = new System.Drawing.Point(128, 144);
             this.tB_DroneUser2.Name = "tB_DroneUser2";
             this.tB_DroneUser2.Size = new System.Drawing.Size(73, 20);
-            this.tB_DroneUser2.TabIndex = 16;
+            this.tB_DroneUser2.TabIndex = 24;
             // 
             // bn_ApplyDrone2
             // 
@@ -191,7 +191,7 @@
             this.bn_ApplyDrone2.Location = new System.Drawing.Point(207, 142);
             this.bn_ApplyDrone2.Name = "bn_ApplyDrone2";
             this.bn_ApplyDrone2.Size = new System.Drawing.Size(76, 23);
-            this.bn_ApplyDrone2.TabIndex = 15;
+            this.bn_ApplyDrone2.TabIndex = 34;
             this.bn_ApplyDrone2.Text = "Apply";
             this.bn_ApplyDrone2.UseVisualStyleBackColor = true;
             this.bn_ApplyDrone2.Click += new System.EventHandler(this.bn_ApplyDrone2_Click);
@@ -202,14 +202,14 @@
             this.tB_DroneCurrent2.Name = "tB_DroneCurrent2";
             this.tB_DroneCurrent2.ReadOnly = true;
             this.tB_DroneCurrent2.Size = new System.Drawing.Size(73, 20);
-            this.tB_DroneCurrent2.TabIndex = 14;
+            this.tB_DroneCurrent2.TabIndex = 4;
             // 
             // tB_MissUser2
             // 
             this.tB_MissUser2.Location = new System.Drawing.Point(128, 86);
             this.tB_MissUser2.Name = "tB_MissUser2";
             this.tB_MissUser2.Size = new System.Drawing.Size(73, 20);
-            this.tB_MissUser2.TabIndex = 20;
+            this.tB_MissUser2.TabIndex = 22;
             // 
             // bn_ApplyMiss2
             // 
@@ -217,7 +217,7 @@
             this.bn_ApplyMiss2.Location = new System.Drawing.Point(207, 84);
             this.bn_ApplyMiss2.Name = "bn_ApplyMiss2";
             this.bn_ApplyMiss2.Size = new System.Drawing.Size(76, 23);
-            this.bn_ApplyMiss2.TabIndex = 19;
+            this.bn_ApplyMiss2.TabIndex = 32;
             this.bn_ApplyMiss2.Text = "Apply";
             this.bn_ApplyMiss2.UseVisualStyleBackColor = true;
             this.bn_ApplyMiss2.Click += new System.EventHandler(this.bn_ApplyMiss2_Click);
@@ -228,14 +228,14 @@
             this.tB_MissCurrent2.Name = "tB_MissCurrent2";
             this.tB_MissCurrent2.ReadOnly = true;
             this.tB_MissCurrent2.Size = new System.Drawing.Size(73, 20);
-            this.tB_MissCurrent2.TabIndex = 18;
+            this.tB_MissCurrent2.TabIndex = 2;
             // 
             // tB_EnergyUser
             // 
             this.tB_EnergyUser.Location = new System.Drawing.Point(127, 202);
             this.tB_EnergyUser.Name = "tB_EnergyUser";
             this.tB_EnergyUser.Size = new System.Drawing.Size(73, 20);
-            this.tB_EnergyUser.TabIndex = 24;
+            this.tB_EnergyUser.TabIndex = 26;
             // 
             // bn_ApplyEnergy
             // 
@@ -243,7 +243,7 @@
             this.bn_ApplyEnergy.Location = new System.Drawing.Point(206, 200);
             this.bn_ApplyEnergy.Name = "bn_ApplyEnergy";
             this.bn_ApplyEnergy.Size = new System.Drawing.Size(76, 23);
-            this.bn_ApplyEnergy.TabIndex = 23;
+            this.bn_ApplyEnergy.TabIndex = 36;
             this.bn_ApplyEnergy.Text = "Apply";
             this.bn_ApplyEnergy.UseVisualStyleBackColor = true;
             this.bn_ApplyEnergy.Click += new System.EventHandler(this.bn_ApplyEnergy_Click);
@@ -254,14 +254,14 @@
             this.tB_EnergyCurrent.Name = "tB_EnergyCurrent";
             this.tB_EnergyCurrent.ReadOnly = true;
             this.tB_EnergyCurrent.Size = new System.Drawing.Size(73, 20);
-            this.tB_EnergyCurrent.TabIndex = 22;
+            this.tB_EnergyCurrent.TabIndex = 6;
             // 
             // tB_ScrapUser
             // 
             this.tB_ScrapUser.Location = new System.Drawing.Point(127, 231);
             this.tB_ScrapUser.Name = "tB_ScrapUser";
             this.tB_ScrapUser.Size = new System.Drawing.Size(73, 20);
-            this.tB_ScrapUser.TabIndex = 28;
+            this.tB_ScrapUser.TabIndex = 27;
             // 
             // bn_ApplyScrap
             // 
@@ -269,7 +269,7 @@
             this.bn_ApplyScrap.Location = new System.Drawing.Point(206, 229);
             this.bn_ApplyScrap.Name = "bn_ApplyScrap";
             this.bn_ApplyScrap.Size = new System.Drawing.Size(76, 23);
-            this.bn_ApplyScrap.TabIndex = 27;
+            this.bn_ApplyScrap.TabIndex = 37;
             this.bn_ApplyScrap.Text = "Apply";
             this.bn_ApplyScrap.UseVisualStyleBackColor = true;
             this.bn_ApplyScrap.Click += new System.EventHandler(this.bn_ApplyScrap_Click);
@@ -280,7 +280,7 @@
             this.tB_ScrapCurrent.Name = "tB_ScrapCurrent";
             this.tB_ScrapCurrent.ReadOnly = true;
             this.tB_ScrapCurrent.Size = new System.Drawing.Size(73, 20);
-            this.tB_ScrapCurrent.TabIndex = 26;
+            this.tB_ScrapCurrent.TabIndex = 7;
             // 
             // bn_ApplyAll
             // 
@@ -288,7 +288,7 @@
             this.bn_ApplyAll.Location = new System.Drawing.Point(207, 268);
             this.bn_ApplyAll.Name = "bn_ApplyAll";
             this.bn_ApplyAll.Size = new System.Drawing.Size(76, 23);
-            this.bn_ApplyAll.TabIndex = 30;
+            this.bn_ApplyAll.TabIndex = 28;
             this.bn_ApplyAll.Text = "Apply All";
             this.bn_ApplyAll.UseVisualStyleBackColor = true;
             this.bn_ApplyAll.Click += new System.EventHandler(this.bn_ApplyAll_Click);
@@ -299,7 +299,7 @@
             this.bn_Exit.Location = new System.Drawing.Point(12, 276);
             this.bn_Exit.Name = "bn_Exit";
             this.bn_Exit.Size = new System.Drawing.Size(111, 23);
-            this.bn_Exit.TabIndex = 31;
+            this.bn_Exit.TabIndex = 29;
             this.bn_Exit.Text = "Exit";
             this.bn_Exit.UseVisualStyleBackColor = true;
             this.bn_Exit.Click += new System.EventHandler(this.bn_Exit_Click);
@@ -410,7 +410,7 @@
             this.tB_HealthUser.Location = new System.Drawing.Point(127, 173);
             this.tB_HealthUser.Name = "tB_HealthUser";
             this.tB_HealthUser.Size = new System.Drawing.Size(73, 20);
-            this.tB_HealthUser.TabIndex = 35;
+            this.tB_HealthUser.TabIndex = 25;
             // 
             // bn_ApplyHealth
             // 
@@ -418,7 +418,7 @@
             this.bn_ApplyHealth.Location = new System.Drawing.Point(206, 171);
             this.bn_ApplyHealth.Name = "bn_ApplyHealth";
             this.bn_ApplyHealth.Size = new System.Drawing.Size(76, 23);
-            this.bn_ApplyHealth.TabIndex = 34;
+            this.bn_ApplyHealth.TabIndex = 35;
             this.bn_ApplyHealth.Text = "Apply";
             this.bn_ApplyHealth.UseVisualStyleBackColor = true;
             this.bn_ApplyHealth.Click += new System.EventHandler(this.bn_ApplyHealth_Click);
@@ -429,7 +429,7 @@
             this.tB_HealthCurrent.Name = "tB_HealthCurrent";
             this.tB_HealthCurrent.ReadOnly = true;
             this.tB_HealthCurrent.Size = new System.Drawing.Size(73, 20);
-            this.tB_HealthCurrent.TabIndex = 33;
+            this.tB_HealthCurrent.TabIndex = 5;
             // 
             // Form1
             // 
